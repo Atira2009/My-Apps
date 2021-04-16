@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color:pink;
+}
+#chatbot h1 {
+    font-family: 'Chango', cursive;
+}
+.line{
+    width:250px;
+    height: 6px;
+    background-color: black;
+    margin: 15px auto;
+}
+#games {
+    background-color: hotpink;
+}
+#games img {
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner h1{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-family: 'Chango', cursive;
+    font-size: 20px;
+}
+#apps h1 {
+    font-family: 'Chango', cursive;
+}
+#games h1 {
+    font-family: 'Chango', cursive;
+}
